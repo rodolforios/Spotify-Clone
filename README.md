@@ -5,7 +5,7 @@
 </h1>
 
 <h1>
-    <img src="imagens/apresentacao.gif">
+    <img src="imagens/Apresentacao.gif">
 
 </h1>
 
