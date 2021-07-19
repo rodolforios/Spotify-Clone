@@ -21,7 +21,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O Clone **Spotify**  foi criado dentro do curso **Desenvolvimento Web Completo 2021** com o professor http://jamiltondamasceno/ com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+O Clone **Spotify**  foi criado dentro do curso **Desenvolvimento Web Completo 2021**  com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 
 
 ---
